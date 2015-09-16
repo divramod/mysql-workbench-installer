@@ -1,5 +1,9 @@
 Install Notes
 ====================
+
+Ubuntu 14.04
+--------------------
+
 ```
 git clone git@github.com:divramod/mysql-workbench-installer.git
 
